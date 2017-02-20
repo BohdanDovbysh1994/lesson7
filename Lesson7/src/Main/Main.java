@@ -3,7 +3,7 @@ package Main;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		 // TODO Auto-generated method stub
 
 		String [] fraction = {"freedom", "independence", "green"};
 		
@@ -18,7 +18,8 @@ public class Main {
 		}
 		
 		System.out.println("From git");
-		
+	
+		System.out.println("branch new branch");
 	}
 
 }
