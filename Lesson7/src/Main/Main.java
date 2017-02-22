@@ -67,8 +67,8 @@ public class Main {
 				System.out.println("Wrong comand")
 		}
 		}
-		} else {System.out.println ("Inkorect login")}
-		} else {System.out.println ("Incorekt password")}
+		} else {System.out.println ("Invalid login")}
+		} else {System.out.println ("Invalid password")}
 	}
 
 }
